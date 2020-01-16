@@ -1,20 +1,69 @@
 body {
-    padding:30px;
+    width:100%;
+    text-align: center;
 }
 
 #logo {
+    padding: 0px;
+    margin-top: 15px;
     float:left;
 }
 
-.navItem {
-    float:left;
-    line-height: 70px;
+nav {
+    margin-left: auto;
+    margin-right:auto;
     list-style-type: none;
-    width: 190px;
+    width: 960px;
+    height: 85px;
+    text-align: center;
+    
+}
+
+.navItem {
+    float: left;
+    line-height: 70px;
+    width: 182px;
     text-align: center;
     margin-top: 15px;
 }
 
 img {
-    margin: 15px;
+   padding: 15px;
+}
+
+#featureBanner {
+    padding: 0px;
+    float: left;
+}
+
+section {
+    height: 400px;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#featureText {
+    float:right;
+    width:480px;
+    height:400px;
+}
+
+h2 {
+    text-align: left;
+    font-size: 32px;
+    margin-left: 30px;
+}
+
+p {
+    text-align: left;
+    margin-left: 30px;
+    overflow: scroll;
+    font-size: 20px;
+    height: 350px;
+}
+
+button {
+    float:left;
+    margin-left: 30px;
 }
