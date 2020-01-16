@@ -1,0 +1,20 @@
+body {
+    padding:30px;
+}
+
+#logo {
+    float:left;
+}
+
+.navItem {
+    float:left;
+    line-height: 70px;
+    list-style-type: none;
+    width: 190px;
+    text-align: center;
+    margin-top: 15px;
+}
+
+img {
+    margin: 15px;
+}
