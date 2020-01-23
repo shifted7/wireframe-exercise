@@ -39,6 +39,7 @@ nav {
 
 img {
    padding: 15px;
+   display:inline-block;
 }
 
 #featureBanner {
